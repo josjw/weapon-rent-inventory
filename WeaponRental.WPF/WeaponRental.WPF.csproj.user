@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+<<<<<<< HEAD
+    <Compile Update="Views\Content\BorrowView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Content\MemberDataView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Content\OfficerDataView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Content\ReturnView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Content\ReportView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Content\SettingView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Content\WeaponDataView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Content\WeaponTypeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Styles\Common.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Groupbox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+=======
+    <Page Update="Styles\Common.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+>>>>>>> main
+    <Page Update="Styles\Header.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\NavigationMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+<<<<<<< HEAD
+    <Page Update="Views\Content\BorrowView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Content\MemberDataView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Content\OfficerDataView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Content\ReturnView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Content\ReportView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Content\SettingView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Content\WeaponDataView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Content\WeaponTypeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+=======
+>>>>>>> main
+  </ItemGroup>
+</Project>

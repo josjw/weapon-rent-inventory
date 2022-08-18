@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WeaponRental.Domain\WeaponRental.Domain.csproj" />
+    <ProjectReference Include="..\WeaponRental.EntityFramework\WeaponRental.EntityFramework.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ViewModels\" />
+<<<<<<< HEAD
+=======
+    <Folder Include="Views\Content\" />
+>>>>>>> main
+  </ItemGroup>
+
+</Project>

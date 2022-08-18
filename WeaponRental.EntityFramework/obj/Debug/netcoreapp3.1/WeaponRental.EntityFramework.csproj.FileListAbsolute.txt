@@ -1,0 +1,15 @@
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\bin\Debug\netcoreapp3.1\WeaponRental.EntityFramework.deps.json
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\bin\Debug\netcoreapp3.1\WeaponRental.EntityFramework.dll
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\obj\Debug\netcoreapp3.1\WeaponRental.EntityFramework.csprojAssemblyReference.cache
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\obj\Debug\netcoreapp3.1\WeaponRental.EntityFramework.AssemblyInfoInputs.cache
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\obj\Debug\netcoreapp3.1\WeaponRental.EntityFramework.AssemblyInfo.cs
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\bin\Debug\netcoreapp3.1\WeaponRental.Domain.dll
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\bin\Debug\netcoreapp3.1\WeaponRental.EntityFramework.runtimeconfig.json
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\bin\Debug\netcoreapp3.1\WeaponRental.EntityFramework.runtimeconfig.dev.json
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\bin\Debug\netcoreapp3.1\WeaponRental.EntityFramework.pdb
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\bin\Debug\netcoreapp3.1\WeaponRental.Domain.pdb
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\obj\Debug\netcoreapp3.1\WeaponRental.EntityFramework.csproj.CoreCompileInputs.cache
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\obj\Debug\netcoreapp3.1\WeaponRental.EntityFramework.csproj.CopyComplete
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\obj\Debug\netcoreapp3.1\WeaponRental.EntityFramework.dll
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\obj\Debug\netcoreapp3.1\WeaponRental.EntityFramework.pdb
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.EntityFramework\obj\Debug\netcoreapp3.1\WeaponRental.EntityFramework.genruntimeconfig.cache

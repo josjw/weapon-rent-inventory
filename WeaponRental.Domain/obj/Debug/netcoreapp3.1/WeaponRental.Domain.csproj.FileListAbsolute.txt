@@ -1,0 +1,9 @@
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.Domain\bin\Debug\netcoreapp3.1\WeaponRental.Domain.deps.json
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.Domain\bin\Debug\netcoreapp3.1\WeaponRental.Domain.dll
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.Domain\bin\Debug\netcoreapp3.1\WeaponRental.Domain.pdb
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.Domain\obj\Debug\netcoreapp3.1\WeaponRental.Domain.csprojAssemblyReference.cache
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.Domain\obj\Debug\netcoreapp3.1\WeaponRental.Domain.AssemblyInfoInputs.cache
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.Domain\obj\Debug\netcoreapp3.1\WeaponRental.Domain.AssemblyInfo.cs
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.Domain\obj\Debug\netcoreapp3.1\WeaponRental.Domain.csproj.CoreCompileInputs.cache
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.Domain\obj\Debug\netcoreapp3.1\WeaponRental.Domain.dll
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.Domain\obj\Debug\netcoreapp3.1\WeaponRental.Domain.pdb

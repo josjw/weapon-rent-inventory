@@ -1,0 +1,28 @@
+﻿WeaponRental.WPF
+
+
+winexe
+C#
+.cs
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.WPF\obj\Debug\netcoreapp3.1\
+WeaponRental.WPF
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
+E:\Data\KULIAH\MATERI\Sem3\FP\WeaponRental\WeaponRental\WeaponRental.WPF\App.xaml
+<<<<<<< HEAD
+13-1642012384
+
+11163193143
+215311989141
+Styles\Common.xaml;Styles\Groupbox.xaml;Styles\Header.xaml;Styles\NavigationMenu.xaml;Views\Content\BorrowView.xaml;Views\Content\MemberDataView.xaml;Views\Content\OfficerDataView.xaml;Views\Content\ReportView.xaml;Views\Content\ReturnView.xaml;Views\Content\SettingView.xaml;Views\Content\WeaponDataView.xaml;Views\Content\WeaponTypeView.xaml;Views\Home\Dashboard.xaml;
+=======
+4637981022
+
+3-2046805130
+215311989141
+Styles\Common.xaml;Styles\Header.xaml;Styles\NavigationMenu.xaml;Views\Home\Dashboard.xaml;
+>>>>>>> main
+
+False
+
